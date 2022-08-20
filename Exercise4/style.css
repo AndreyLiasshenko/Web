@@ -1,0 +1,30 @@
+table {
+    font-size: 33px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
+}
+
+table tbody {
+    background-color: #a4e25e;
+    margin: 40px;
+}
+
+th {
+   border: solid black 3px;
+    padding: 10px;
+
+}
+
+td {
+    padding: 10px;
+    border-bottom: black solid 1px;
+    border-right: black solid 1px;
+}
+
+
+body {
+    margin: 0;
+    background-color: #faf4ab;
+}

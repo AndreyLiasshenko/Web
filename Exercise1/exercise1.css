@@ -1,0 +1,16 @@
+div {
+    border: 1px solid black;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.container {
+    text-align: left;
+    height: 300px;
+    width: 300px;
+}
+
+.content {
+    width: 75%;
+    background: #fc0;
+}

@@ -1,0 +1,19 @@
+body {
+    background-color: #626161;
+}
+
+.info {
+    position: relative;
+    width: 110px;
+    height: 30px;
+    opacity: 70%;
+    transition: opacity;
+    transition-duration: 0.5s;
+}
+
+.textInfo {
+    color: black;
+    font-size: 16px;
+    margin-left: 5px;
+    background-color: #ffffff;
+}
