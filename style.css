@@ -1,11 +1,22 @@
 body {
     background-color: darkgoldenrod;
-    display: flex;
-    justify-content: center;
+
 }
 
+div{
+    text-align: center;
+    padding-top: 50px;
+}
 a {
+
+    width: 400px;
     padding: 20px;
     color: #f6f6f6;
     background-color: #b62626;
+    }
+
+h1 {
+    padding: 20px;
+    text-align: center;
+
 }
