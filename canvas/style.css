@@ -1,0 +1,32 @@
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.canvas {
+    position: relative;
+    bottom: 550px;
+    right: -50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-image: url("background.jpg")
+}
+
+#canvas2 {
+    position: absolute;
+    left: 225px;
+    top: 195px;
+}
+
+#canvas3 {
+    position: absolute;
+    left: 225px;
+    top: 195px;
+}
+
